@@ -76,7 +76,7 @@ Agriculture, FoodTech & Rural Development
     <li><strong>Image Processing:</strong>OpenCV for preprocessing images before feeding them into CNN models for pest/disease detection.</li>
 </ul>
 
-![alt text](<Screenshot (63).png>)
+![alt text](flowchart.png)
 
 ## Feasibility and Viability
 
